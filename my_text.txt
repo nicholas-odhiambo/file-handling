@@ -1,0 +1,9 @@
+ 
+    This is an exersice about handling files.
+    Some people prefers numbers 8,7,2 .
+    He said,  "wow".
+         
+            1. The year is 2024
+            2. Python is a fun language to learn
+            3. 12344566
+        
